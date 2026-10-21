@@ -1,0 +1,16 @@
+
+/* Fee Explainer additions — append to your existing App.css */
+.rp-fee-document { margin-top: 22px; }
+.rp-fee-checked { display: flex; align-items: center; gap: 8px; color: #625c7d; font-size: 14px; margin: 16px 0 22px; }
+.rp-fee-checked svg { color: #6957e8; }
+.rp-fee-bullets { padding-left: 24px; margin: 0 0 26px; color: #39334f; line-height: 1.75; }
+.rp-fee-bullets li { padding-left: 7px; margin-bottom: 14px; }
+.rp-fee-bullets li::marker { color: #6957e8; font-weight: 700; }
+.rp-fee-evidence, .rp-fee-sources { border-top: 1px solid #ebe8f5; padding-top: 20px; margin-top: 20px; }
+.rp-fee-evidence h4, .rp-fee-sources h4 { margin: 0 0 12px; color: #292348; }
+.rp-fee-id-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.rp-fee-sources ul { padding-left: 20px; margin: 0; }
+.rp-fee-sources li { margin-bottom: 10px; overflow-wrap: anywhere; }
+.rp-fee-sources a { color: #6355df; text-decoration: underline; text-underline-offset: 3px; }
+.rp-fee-sources a:hover { color: #4638c5; }
+.rp-fee-disclaimer { margin-top: 24px; padding: 14px 16px; border-radius: 12px; background: #f5f3ff; color: #625c7d; font-size: 13px; line-height: 1.6; }

@@ -1,0 +1,16 @@
+review_id,date,rating,review_text,source,source_url
+GR001,2026-09-18,,"App frequently hangs during trading; reviewer says the app is otherwise beginner-friendly.",Google Play (paraphrased),https://play.google.com/store/apps/details?id=com.nextbillion.groww
+GR002,2026-09-09,,"Reviewer reports slow processing and says redemptions can take five days to be credited.",Google Play (paraphrased),https://play.google.com/store/apps/details?id=com.nextbillion.groww
+GR003,2026-08-18,,"App gets stuck during trade execution; stop-loss or target orders reportedly fail to execute.",Google Play (paraphrased),https://play.google.com/store/apps/details?id=com.nextbillion.groww
+GR004,2026-08-28,3,"After an update, the F&O page appears at login despite the reviewer not using that feature.",Google Play (paraphrased),https://play.google.com/store/apps/details?id=com.nextbillion.groww
+GR005,2026-08-30,,"Beginner praises fast IPO application process and useful investing information.",Google Play (paraphrased),https://play.google.com/store/apps/details?id=com.nextbillion.groww
+GR006,2026-09-08,,"Requests goal-wise investment tracking for retirement, education and wealth creation.",Google Play (paraphrased),https://play.google.com/store/apps/details?id=com.nextbillion.groww
+GR007,2026-09-18,,"Frequent glitches during trading and slow customer support response are reported.",Google Play (paraphrased),https://play.google.com/store/apps/details?id=com.nextbillion.groww
+GR008,2026-08-30,,"Delivery investor reports ₹13.8k in charges against ₹29.4k realized P&L and questions brokerage and DP charges.",Reddit (paraphrased),https://www.reddit.com/r/IndianStockMarket/comments/1w2e6bp/groww_charges_seem_insane_for_mostly_delivery/
+GR009,2026-08-18,,"User asks why Groww DP charges appear separately from CDSL DP charges and brokerage.",Reddit (paraphrased),https://www.reddit.com/r/IPO_India/comments/1vrnj0j/can_anyone_explain_what_are_groww_dp_charges/
+GR010,2026-08-19,,"Commenter questions why both Groww DP charges and CDSL DP charges appear alongside brokerage.",Reddit comment (paraphrased),https://www.reddit.com/r/IPO_India/comments/1vrnj0j/can_anyone_explain_what_are_groww_dp_charges/
+GR011,2026-09-25,,"After selling shares for ₹324, user asks why only ₹200 appears and what external charges mean.",Reddit (paraphrased),https://www.reddit.com/r/IndianStockMarket/comments/1wpw5pe/help_me_with_this_on_groww/
+GR012,2026-10-02,,"User says charges on Groww's calculator differ from charges shown in the app for a delivery trade.",Reddit (paraphrased),https://www.reddit.com/r/IndianStockMarket/comments/1wvmba3/someone_help_me_understand_groww_charges_i_bought/
+GR013,2026-10-02,,"Commenter asks what Groww DP charges are and how they differ from CDSL DP charges.",Reddit comment (paraphrased),https://www.reddit.com/r/IndianStockMarket/comments/1wvmba3/someone_help_me_understand_groww_charges_i_bought/
+GR014,2026-09-02,,"User complains of app freezing during fast-moving trades and considers brokerage expensive.",Reddit (paraphrased),https://www.reddit.com/r/IndianStockMarket/comments/1w557hk/guys_stay_away_from_groww_groww_app_is_designed/
+GR015,2026-10-14,,"User asks whether the reported $1 fee per executed US-stock transaction is competitive.",Reddit (paraphrased),https://www.reddit.com/r/IndianStockMarket/comments/1x5jaoo/groww_started_us_stocks/
