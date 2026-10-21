@@ -9,7 +9,8 @@ import {
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, BarChart, Bar, XAxis, YAxis, CartesianGrid } from 'recharts';
 import './App.css';
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+const API_URL = import.meta.env.VITE_API_URL || 
+"https://reviewpulse-ai-groww-api.onrender.com";
 const NAV = [
   { id: 'overview', label: 'Overview', icon: LayoutDashboard },
   { id: 'upload', label: 'Upload Reviews', icon: UploadCloud },

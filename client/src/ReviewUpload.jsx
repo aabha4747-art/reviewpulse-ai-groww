@@ -4,7 +4,8 @@ import axios from "axios";
 import { Upload, FileSpreadsheet } from "lucide-react";
 
 const API_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:5000";
+  import.meta.env.VITE_API_URL || 
+"https://reviewpulse-ai-groww-api.onrender.com";
 
 export default function ReviewUpload() {
   const [file, setFile] = useState(null);
