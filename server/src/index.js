@@ -17,11 +17,19 @@ const app = express();
 // MIDDLEWARE
 // =====================================
 
+
 app.use(
   cors({
-    origin: process.env.CLIENT_URL || "http://localhost:5173"
+    origin: [
+      "http://localhost:5173",
+      "https://reviewpulse-ai-groww-c463mtmfj-aabha4747-arts-projects.vercel.app",
+      process.env.CLIENT_URL
+    ].filter(Boolean),
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"]
   })
 );
+
 
 app.use(express.json({ limit: "3mb" }));
 
