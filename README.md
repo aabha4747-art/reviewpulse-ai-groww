@@ -21,7 +21,7 @@ https://reviewpulse-ai-groww-api.onrender.com
 https://reviewpulse-ai-groww-api.onrender.com/api/health
 
 **GitHub Repository:**  
-Add your repository URL here.
+https://github.com/aabha4747-art/reviewpulse-ai-groww
 
 > The prototype is an independent educational project inspired by customer feedback about Groww. It is not affiliated with or endorsed by Groww.
 
